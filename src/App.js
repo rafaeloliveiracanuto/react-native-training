@@ -4,7 +4,7 @@ import Simples from './components/Simple'
 import EvenAndOdd from './components/EvenAndOdd'
 import  Invert, { MegaSena } from './components/Multi'
 
-export default class App extends React.Component{
+export default class App extends React. Component{
   render(){
     return(
       <View style={styles.container}>
